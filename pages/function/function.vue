@@ -7,7 +7,7 @@
       <input type="number" v-model="stockQuantity" class="input" />
       <button @click="incrementStock" class="button">+</button>
     </view>
-
+<view></view>
     <!-- 图片上传部分 -->
     <view class="image-section">
       <button @click="addImage" class="add-image-button">添加图片</button>
