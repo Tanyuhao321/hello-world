@@ -1,4 +1,5 @@
 <template>
+	
   <view class="container">
     <!-- 库存增减部分 -->
     <view class="stock-control">
